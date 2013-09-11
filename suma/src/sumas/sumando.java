@@ -9,6 +9,8 @@ public class sumando {
 		x=Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero"));
 		y=Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero"));
 		z=x+y;
-		JOptionPane.showMessageDialog(null,"la suma es:\n"+ z); 	
+		JOptionPane.showMessageDialog(null,"la suma es una :\n"+ z); 
+		JOptionPane.showMessageDialog(null,"jonatan es idiota"); 
 	}
+	
 }
